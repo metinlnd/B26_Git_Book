@@ -3,5 +3,5 @@ This is start of my book.
 Page 1 help us get started
 
 
- java is cool
+ java is cool!
   Jmae is always with us
